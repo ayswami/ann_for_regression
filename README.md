@@ -1,5 +1,5 @@
 # ann_for_regression
-Developing a neural network for solving a regression problem
+Developing a neural network for solving a regression problem (house price prediction)
 
 We have imported sklearn, numpy, matplotlib, 
 keras, pandas libraries in the code2.py file.
